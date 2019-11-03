@@ -4,7 +4,7 @@
 # in order to complete the rest of this course and be ready for the next course!
 
 def = introduction (name)
-puts introduction = "Hi, my name is #{name}."
+puts "Hi, my name is #{name}."
 
 introduction_with_language = 
 
